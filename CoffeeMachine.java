@@ -6,7 +6,6 @@ class CoffeeMachine {
     public static void main(String[] args) {
         CoffeeMachine wantCoffee = new CoffeeMachine();
         wantCoffee.RunCoffeeMachine();
-
 //        System.out.println(Arrays.toString(CoffeeTypes.values()));
 //        System.out.println(CoffeeTypes.valueOf("ESPRESSO").id);
 //        wantCoffee.buy(CoffeeTypes.valueOf("ESPRESSO"));
